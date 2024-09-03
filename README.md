@@ -1,20 +1,7 @@
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Philipp+Breitler....;Nice+to+meet+you!&center=true&size=30&color=green">
-  </a>
-</h1>
 
-
-
-- 👋 Hi, I’m @PhilippBreitler
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+  <img align="left" src="https://tenor.com/de/view/bumble-bee-sus-gif-8566306001639863160.gif" width="600">
+  
 <!---
 PhilippBreitler/PhilippBreitler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
