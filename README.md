@@ -1,6 +1,6 @@
 
 
-  <img align="center" src="https://tenor.com/de/view/bumble-bee-sus-gif-8566306001639863160.gif" width="700" height="700">
+  <img align="center" src="https://tenor.com/de/view/bumble-bee-sus-gif-8566306001639863160.gif" width="800" height="700">
   
 <!---
 PhilippBreitler/PhilippBreitler is a ✨ special ✨ repository because its `README.md` (this f
