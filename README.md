@@ -40,7 +40,7 @@
 
 <br><br> 
 
-<h2 align="left" id="macropower-tech">⚡ Favorite Tech ⚡</h2>
+<h2 align="center" id="macropower-tech">⚡ Favorite Tech ⚡</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -61,7 +61,22 @@
   </tr>
 </table>
 
-<h2 align="left" id="macropower-tech">⚡ Stats ⚡</h2>
+<h2 align="center" id="macropower-tech">⚡ Stats ⚡</h2>
+
+> Insane stats i like to brag about.
+
+<div align="center">
+
+  ![Philipp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PhilippBreitler&theme=merko&hide_border=false)
+  
+  [![Philipp's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilippBreitler&theme=merko)](https://github.com/PhilippBreitler/github-readme-stats)
+
+  ![Philipp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippBreitler&theme=merko&show_icons=true&hide_border=false&layout=compact)
+
+  
+</div>
+
+
 
 
 
