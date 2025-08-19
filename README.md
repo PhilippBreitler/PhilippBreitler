@@ -53,7 +53,7 @@
 
 <h2 align="center" id="macropower-tech">💬 Connect with me 🗨</h2>
 
-> Tools, languages, and other things that I like to work with.
+> In case you want to talk to me.
 
 <div align="center">
 <a href="[https://www.instagram.com/bacon_delight/](https://www.instagram.com/vyhgly8ty74y7yk/)"><img src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
