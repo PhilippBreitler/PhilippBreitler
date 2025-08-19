@@ -1,4 +1,4 @@
-
+<img src="/images/divider.gif">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 <br>
@@ -33,8 +33,6 @@
 <br>
 - 📫 How to reach me ...
 <br>
-- 😄 Pronouns: ...
-<br>
 - ⚡ Fun fact: ...
 </p>
 
@@ -66,16 +64,16 @@
 > Insane stats i like to brag about.
 
 <div align="center">
-
-  ![Philipp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PhilippBreitler&theme=merko&hide_border=false)
   
-  [![Philipp's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilippBreitler&theme=merko)](https://github.com/PhilippBreitler/github-readme-stats)
-
-  ![Philipp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippBreitler&theme=merko&show_icons=true&hide_border=false&layout=compact)
-
+  ![Philipp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PhilippBreitler&theme=tokyonight&hide_border=false)
+  
+  [![Philipp's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilippBreitler&theme=tokyonight)](https://github.com/PhilippBreitler/github-readme-stats)
+  
+  ![Philipp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippBreitler&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
   
 </div>
 
+<img src="/images/divider.gif">
 
 
 
